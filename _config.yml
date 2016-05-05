@@ -1,0 +1,28 @@
+name: 'Acuícola S.A. '
+favicon: null
+layout_spectrum: 0.30872165015898645
+typography_spectrum: 0.21789392014034092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.46582951047457755
+  lightness: 0.8001764181535691
+  saturation: 0.20944992452859879
+  rhythmicContrast: 0.46191071649082005
+purpose: []
