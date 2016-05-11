@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Es gratificante participar de un proyecto acuícola grande, pero los proyectos familiares siempre tienen una sensación especial.'
-datePublished: '2016-05-05T05:04:56.528Z'
-dateModified: '2016-05-05T05:04:03.819Z'
+description: 'Es gratificante participar en cualquier proyecto acuícola, pero los proyectos donde participan familias completas siempre tienen una satisfacción especial.'
+datePublished: '2016-05-11T06:50:26.446Z'
+dateModified: '2016-05-11T06:49:40.585Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-es-gratificante-participar-de-un-proyecto-acuicola-grande-p.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-es-gratificante-participar-de-un-proyecto-acuicola-grande-p.md
 url: es-gratificante-participar-de-un-proyecto-acuicola-grande-p/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34f51c0-8bd5-40fe-a27b-1d100c856655.jpg)
-
-Es gratificante participar de un proyecto acuícola grande, pero los proyectos familiares siempre tienen una sensación especial.
+Es gratificante participar en cualquier proyecto acuícola, pero los proyectos donde participan familias completas siempre tienen una satisfacción especial.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64968d9-cce5-4e32-8aaf-0ed2074d4491.jpg)
