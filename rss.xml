@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Acuícola S.A. ]]></title>
         <description><![CDATA[Acuícola S.A. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acuicola-s-a/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 05:04:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 06:50:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acuicola-s-a/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34f51c0-8bd5-40fe-a27b-1d100c856655.jpg">]]></description>
-            <link>undefinedes-gratificante-participar-de-un-proyecto-acuicola-grande-p/index.html</link>
+            <title><![CDATA[Proyecto Maricultivo]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64968d9-cce5-4e32-8aaf-0ed2074d4491.jpg">]]></description>
+            <link>https://thegrid.ai/acuicola-s-a/es-gratificante-participar-de-un-proyecto-acuicola-grande-p/index.html</link>
             <guid isPermaLink="false">2afe0607-3c0c-408b-a873-c648009b3802</guid>
-            <pubDate>Thu, 05 May 2016 05:04:56 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 06:50:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
