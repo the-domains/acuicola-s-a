@@ -1,19 +1,4 @@
-name: 'Acuícola S.A. '
-favicon: null
-layout_spectrum: 0.30872165015898645
 typography_spectrum: 0.21789392014034092
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8001764181535691
   saturation: 0.3125
   rhythmicContrast: 0.46191071649082005
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.30872165015898645
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Acuícola S.A. '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Servicios Ambientales y de Ingeniería Acuícola
 purpose: []
